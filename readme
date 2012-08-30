@@ -1,0 +1,51 @@
+This is a package of templates for programming languages and markup languages for files that will be license under some copyleft licenses.
+
+--- GPL ---
+Whichever license you plan to use, the process involves adding two elements to each source file of your program: a copyright notice (such as “Copyright 1999 Terry Jones”), and a statement of copying permission, saying that the program is distributed under the terms of the GNU General Public License (or the Lesser GPL).
+
+If several people helped write the code, use all their names.
+
+If you have copied code from other programs covered by the same license, copy their copyright notices too. Put all the copyright notices together, right near the top of each file.
+
+It is very important for practical reasons to include contact information for how to reach you, perhaps in the README file, but this has nothing to do with the legal issues of applying the license.
+
+The copying permission statement should come right after the copyright notices. For a one-file program, the statement (for the GPL) should look like this:
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+For programs that are more than one file, it is better to replace “this program” with the name of the program, and begin the statement with a line saying “This file is part of NAME”. For instance,
+    
+    This file is part of Foobar.
+    
+    Foobar is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    Foobar is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    
+    You should have received a copy of the GNU General Public License
+    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+    
+This statement should go near the beginning of every source file, close to the copyright notices.
+
+More:
+ - http://www.gnu.org/licenses/gpl-howto.html
+---
+
+--- CC-BY ---
+---
