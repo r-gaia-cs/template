@@ -1,13 +1,13 @@
-% Copyright (C) <year>  <name of author>
+% Copyright (C) <year> <name of author>
 % 
-% This work is licensed under the Creative Commons 
-% Attribution-ShareAlike 3.0 Unported License. To view a copy of
-% this license, visit 
-% <http://creativecommons.org/licenses/by-sa/3.0/>.
+% This work is licensed under the Creative Commons
+% Attribution-ShareAlike 3.0 Unported License. To view a copy of this
+% license, visit <http://creativecommons.org/licenses/by-sa/3.0/>.
 % 
-% This work is distributed in the hope that it will be useful,
-% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% This work is distributed in the hope that it will be useful, but
+% WITHOUT ANY WARRANTY; without even the implied warranty of
 % MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
 \documentclass[12pt,a4paper]{article}
 % Utilizar apenas para a classe beamer
 % \usetheme{CambridgeUS}
