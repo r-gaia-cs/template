@@ -23,6 +23,9 @@
 \usepackage[brazil]{babel}
 \usepackage{indentfirst}
 
+% Textos
+\newcommand{\flang}[1]{\textit{#1}}
+
 % Links
 \usepackage[hyphens]{url}
 \usepackage{hyperref}
@@ -100,6 +103,14 @@ breakatwhitespace=false,
 % morekeywords={#},
 upquote=true,
 }
+\newcommand{\lcode}[1]{\lstinline!#1!}
+% Configura\{c}c\~{o}es para o python
+\lstdefinestyle{python}{
+language=python,
+% escapeinside={\%}{\^{M},
+}
+\lstnewenvironment{cpython}{\lstset{style=python,}}{}
+\newcommand{\fpython}[1]{\lstinputlisting[style=python,]{#1}}
 
 % Index
 \usepackage{makeidx}

@@ -1,19 +1,15 @@
 % Copyright (C) <year> <name of author>
 % 
-% This work is licensed under the Creative Commons Attribution 3.0
-% Unported License. To view a copy of this license, visit
-% http://creativecommons.org/licenses/by/3.0/.
+% This file is part of <Foobar>.
 % 
-% This work is distributed in the hope that it will be useful, but
+% <Foobar> is licensed under the Creative Commons Attribution-ShareAlike
+% 3.0 Unported License. To view a copy of this license, visit
+% http://creativecommons.org/licenses/by-sa/3.0/.
+% 
+% <Foobar> is distributed in the hope that it will be useful, but
 % WITHOUT ANY WARRANTY; without even the implied warranty of
 % MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-\documentclass[12pt,a4paper]{article}
-% Utilizar apenas para a classe beamer
-% \usetheme{CambridgeUS}
-% \let\Tiny=\tiny % Redefine at least \Tiny for avoid warning
-
-% Tipo de arquivo.
 \usepackage[utf8]{inputenc}
 % \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
@@ -115,7 +111,3 @@ language=python,
 % Index
 \usepackage{makeidx}
 \makeindex
-
-\begin{document}
-<++>
-\end{document}
